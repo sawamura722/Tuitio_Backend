@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuitio", "Tuitio\Tuitio.csproj", "{B4E86544-F17F-45A8-B533-3485AF61CC6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E86544-F17F-45A8-B533-3485AF61CC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E86544-F17F-45A8-B533-3485AF61CC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E86544-F17F-45A8-B533-3485AF61CC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E86544-F17F-45A8-B533-3485AF61CC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {850D0995-D40D-4B05-A93B-8F9F8E4150D1}
+	EndGlobalSection
+EndGlobal

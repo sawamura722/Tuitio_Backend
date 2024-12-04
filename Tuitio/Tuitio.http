@@ -1,0 +1,6 @@
+@Tuitio_HostAddress = http://localhost:5228
+
+GET {{Tuitio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

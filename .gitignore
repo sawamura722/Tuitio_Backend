@@ -1,0 +1,8 @@
+# Ignore JSON files
+*.json
+
+# Ignore executable files
+*.exe
+
+# Ignore the entire Videos folder
+Tuitio/Uploads/Videos/
